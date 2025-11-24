@@ -1,0 +1,15 @@
+[
+  {
+    "group": "央视",
+    "name": "CCTV",
+    "title": "CCTV-1",
+    "logo": "图标",
+    "number": "1",
+    "uris": [
+      "https://www.yangshipin.cn/tv/home?pid=600002264"
+    ],
+    "headers": {
+      "user-agent": ""
+    }
+  }
+]
