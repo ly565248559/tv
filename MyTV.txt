@@ -68,7 +68,6 @@ CCTV-15,https://migu.188766.xyz/?migutoken=53d9a9dd1f1c890abf35db61e3c55ed2&id=C
 
 CCTV-16,hybrid-webview://https://tv.cctv.com/live/cctv16/
 CCTV-16,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600098637
-CCTV-16,http://go.bkpcp.top/mg/cctv16
 
 CCTV-17,hybrid-webview://https://tv.cctv.com/live/cctv17/
 CCTV-17,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001810
@@ -150,3 +149,4 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=971c2503e75ee4fee9af951fd25bf
 怪兽电影,https://www.goodiptv.club/huya/29982674
 经典港片,https://www.goodiptv.club/huya/11602055
 韩国电影,https://www.goodiptv.club/huya/30080226
+
