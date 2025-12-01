@@ -25,7 +25,7 @@
         {
           "name": "CCTV-1",
           "urls": [
-            "hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859"
+            "https://www.yangshipin.cn/tv/home?pid=600001859"
           ]
         }
       ]
@@ -272,3 +272,4 @@
     "cms.qdwght.com"
   ]
 }
+
