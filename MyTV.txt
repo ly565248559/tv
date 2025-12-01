@@ -1,8 +1,9 @@
 央视频道,#genre#
-CCTV-1,tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV-1,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1,hybrid-webview://https://tv.cctv.com/live/cctv1/
-CCTV-1,hybrid-webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
+CCTV-1,hybrid-webview://http://go.bkpcp.top/mg/cctv1
+CCTV-1,http://go.bkpcp.top/mg/cctv1
 
 CCTV-2,hybrid-webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001800
@@ -10,7 +11,6 @@ CCTV-2,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liv
 
 CCTV-3,hybrid-webview://https://tv.cctv.com/live/cctv3/
 CCTV-3,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001801
-CCTV-3,hybrid-webview://https://m.miguvideo.com/m/liveDetail/624878271?channelId=10010001005
 
 CCTV-4,hybrid-webview://https://tv.cctv.com/live/cctv4/
 CCTV-4,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001814
@@ -27,21 +27,25 @@ CCTV-6,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600108442
 
 CCTV-7,hybrid-webview://https://tv.cctv.com/live/cctv7/
 CCTV-7,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600004092
+CCTV-7,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
 
 CCTV-8,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001803
 CCTV-8,hybrid-webview://https://tv.cctv.com/live/cctv8/
 
 CCTV-9,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600004078
 CCTV-9,hybrid-webview://https://tv.cctv.com/live/cctv9/
+CCTV-9,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
 
 CCTV-10,hybrid-webview://https://tv.cctv.com/live/cctv10/
 CCTV-10,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001805
+CCTV-10,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
 
 CCTV-11,hybrid-webview://https://tv.cctv.com/live/cctv11/
 CCTV-11,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001806
 
 CCTV-12,hybrid-webview://https://tv.cctv.com/live/cctv12/
 CCTV-12,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV-12,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
 
 CCTV-13,hybrid-webview://https://tv.cctv.com/live/cctv13/
 CCTV-13,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001811
@@ -59,6 +63,7 @@ CCTV-16,hybrid-webview://http://go.bkpcp.top/mg/cctv16
 
 CCTV-17,hybrid-webview://https://tv.cctv.com/live/cctv17/
 CCTV-17,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001810
+CCTV-17,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
 
 CCTV-8K,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600156816
 CCTV-4K,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002264
@@ -77,7 +82,6 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 东方卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002483
 
 北京卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002309
-北京卫视,http://go.bkpcp.top/mg/bjws
 
 江苏卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002521
 
@@ -128,5 +132,6 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 新疆卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600152138
 
 西藏卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600190403
+
 
 
