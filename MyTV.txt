@@ -6,7 +6,6 @@ CCTV-1,hybrid-webview://https://tv.cctv.com/live/cctv1/
 CCTV-2,hybrid-webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV-2,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-CCTV-2,http://goo.bkpcp.top/mg/CCTV2
 
 CCTV-3,hybrid-webview://https://tv.cctv.com/live/cctv3/
 CCTV-3,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001801
@@ -131,6 +130,7 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 新疆卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600152138
 
 西藏卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600190403
+
 
 
 
