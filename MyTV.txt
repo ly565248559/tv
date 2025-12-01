@@ -2,8 +2,7 @@
 CCTV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV-1,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1,hybrid-webview://https://tv.cctv.com/live/cctv1/
-CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
-CCTV-1,http://8.138.7.223/tv/migu666.php?name=cctv1
+CCTV-1,xZccw+xuu30BF7GQ9ETDx4WKhKkFRzzQZIcqBi15FkAmm4we/hFWHSu2ocy9P5NbfHp8LgdvYrg00nuYrFkPL+jQ73P4pD19WA5EHF9T4+t5zaTjiZ5wCyBYDokbazYPEQQsSdwFXdwDYLl4zLd6jfdgeAlUSC9jlyfhohDThc2AUWySZ4X1VUcSFWUYhZjj7ahPWfxICGsfhN7EnYeIojcDtceiCwTsxM+FwMRMHAgq2oR5Jx1RhF6IInbYl4sdUxNwl7icvaXiFF7DVPtVpnnf8F4J1YReQ4Z+y1U5RXRtkAgpT939wOMo8POJPLdvrTQyQuoe18rjshmFtWAJ8eshSA1aXtDI5sJrIcoGnXMqGn96R7oueQRCkxC5qDJyko262++BuhLoe7T9PCZvkBg52np9rFi7sd2H1tFk2a2aXZjJDFvjvvjQMtqTSzOVkLZZa0TYxFdrLpAIAWtf15hABJTOEUx+ZHErkmV3F8zf9sqU/rIiLWcRFWmF+U07XBzVTjrCotWtIk9KTlKLJN6QUItYiKEc4CHHCaKQJU0bEa4m6HeT7iNpQu9+MOnBIPY2a1+LlvvJc1UjV+7/pJ1B76teX32gjSc6AkA0Pqn0LwHxjyJqEsUL5c8bCOnHhVnrYT8lWEViBA307cIxVR+r534ueVFbSWjSbxjtm5LTdfG4eKQx+4O8AI1RsGO9vgGIp8cZk656u8CwLWGMnxjkvqUMblI1lnHzQ6Mb4oA0p+NPGGkHXEjpz2+1rE2yOPCRyz1oSA7Xf8O7D/hURq9DUnJj8PgmcJ/Wfz5wE7YhrKCK0DBgIQODtI0YotVG
 
 CCTV-2,hybrid-webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001800
@@ -133,6 +132,7 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 新疆卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600152138
 
 西藏卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600190403
+
 
 
 
